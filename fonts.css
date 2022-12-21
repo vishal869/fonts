@@ -177,15 +177,15 @@
 
 /* / Apply font to headings */
 .slides h1, .slides h2, .slides h3 {
-  /* font-family: 'itc_souvenir'; */
+  font-family: 'itc_souvenir';
   font-weight: 300;
 }
 
 /* // Apply font to body text */
 .slides {
-  font-family: 'itc_souvenir';
+  /* font-family: 'itc_souvenir';
   font-weight: 300 !important;
-  font-style: normal;
+  font-style: normal; */
 }
 
 /* // Apply font to links */
