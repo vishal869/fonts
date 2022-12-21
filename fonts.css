@@ -123,7 +123,7 @@
   font-weight: 300;
   font-style: normal;
 }
-
+/* 
 @font-face {
   font-family: 'itc_souvenir';
   src: url('/fonts/ITC_Souvenir/souvenirstd-lightitalic-webfont.woff2') format('woff2'), url('/fonts/ITC_Souvenir/souvenirstd-lightitalic-webfont.woff') format('woff');
@@ -172,19 +172,19 @@
   font-weight: 700;
   font-style: italic;
 
-}
+} */
 
 
 /* / Apply font to headings */
 .slides h1, .slides h2, .slides h3 {
-  font-family: 'itc_souvenir';
+  /* font-family: 'itc_souvenir'; */
   font-weight: 300;
 }
 
 /* // Apply font to body text */
 .slides {
   font-family: 'itc_souvenir';
-  font-weight: 400;
+  font-weight: 300 !important;
   font-style: normal;
 }
 
